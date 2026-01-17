@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4prathamesh&label=Profile%20views&color=0e75b6&style=flat" alt="4prathamesh" /> </p>
 
-- 🌱 I’m currently learning **Java full-stack developer**
+- 🌱 I’m currently learning **NodeJs developer**
 
-- 💬 Ask me about **c language**
+- 💬 Ask me about **JS language**
 
 - 📫 How to reach me **prathameshw7580@gmail.com**
 
